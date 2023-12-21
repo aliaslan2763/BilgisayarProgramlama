@@ -53,7 +53,7 @@ public class method {
 		System.out.println("bölüm değeri: "+böl(a,b));
 		System.out.println(top(5,2));
 		isim();
-		car(4,6);
+		system.out.println(car(4,6));
 
 	}
 
